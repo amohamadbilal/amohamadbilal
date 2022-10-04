@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Website Designing
-- 📫 How to reach me @mohamadbilal@gmail.com
+- 📫 How to reach me @amohamadbilal@gmail.com
 
 <!---
 amohamadbilal/amohamadbilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
