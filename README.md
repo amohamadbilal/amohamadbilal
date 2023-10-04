@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amohamadbilal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Website Designing
+- 🖥️ MS CRM D365 Software Developer
 - 📫 How to reach me @amohamadbilal@gmail.com
 
 <!---
